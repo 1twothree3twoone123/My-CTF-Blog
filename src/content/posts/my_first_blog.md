@@ -1,8 +1,8 @@
 ---
 title: My First Blog
 published: 2026-09-16
-tags: [Personal, General, CTF]
-category: Misc
+tags: [Personal, CTF]
+category: Personal
 draft: false
 ---
 
