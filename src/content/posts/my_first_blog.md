@@ -10,7 +10,7 @@ Hi! Welcome to my first blog. I'm Threetwoone, a high school student with a stro
 
 I have been doing CTFs (Blue Team) for two years. Last year, I made it to the national finals of CyberTitan, one of the largest youth cybersecurity competitions in Canada.
 
-Earlier this year, I started playing Red Team CTFs on PicoCTF. Last summer, I started playing CTFs regularly and found a team called <a href="https://ctftime.org/team/438868">TheNorthStars</a>.
+Earlier this year, I started playing Red Team CTFs on PicoCTF. Last summer, I started playing CTFs regularly and founded a team called <a href="https://ctftime.org/team/438868">TheNorthStars</a>.
 
 I'm very interested in Linux hardening and forensics. I also enjoy solving security challenges and looking for vulnerabilities in programs and systems.
 
