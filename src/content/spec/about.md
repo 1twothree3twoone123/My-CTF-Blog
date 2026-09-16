@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Hi! I'm threetwoone, a passionate cybersecurity student interested in both blue team and red team. I actively participate in CTFs with my team **TheNorthStars**. I really enjoy solving security challenges and reading through logs.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I love **Forensics**, and I'm also interested in **Binary Exploitation** and **Reverse Engineering**. I'll be posting my writeups on this site.
+
+> ### Source of this website template
+> ::github{repo="saicaca/fuwari"}
