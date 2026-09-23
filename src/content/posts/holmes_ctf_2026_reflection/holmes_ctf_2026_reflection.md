@@ -18,6 +18,5 @@ I was really happy to see us working together like this. Before I created this t
 I think I did pretty well on this one too. I found 43 flags out of 111 for our team. Most of the challenges I worked on were related to forensics, malware analysis or investigations. These are areas I've been trying to learn more about recently, so it was nice to actually apply some of that knowledge in a competition.
 
 Our team write-ups is at https://github.com/TheNorthStars-CTF/Holmes-CTF-2026-Write-ups
-I will also share some of my write-ups on this website later.
 
 ![My Certificate](./Certificate.png)
