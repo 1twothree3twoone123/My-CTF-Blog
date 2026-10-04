@@ -6,7 +6,7 @@ category: Writeups
 draft: false
 ---
 
-# SilentDividend — Easy
+# SilentDividend
 
 Here's the attachments in the challenge
 
