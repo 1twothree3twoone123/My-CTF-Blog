@@ -2,7 +2,7 @@
 title: Holmes CTF 2026 Reflection
 published: 2026-09-21
 tags: [Holmes CTF 2026, Blue Team, Reflection]
-category: CTF Reflection
+category: Personal
 draft: false
 ---
 
