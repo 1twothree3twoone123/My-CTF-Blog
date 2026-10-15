@@ -1,7 +1,7 @@
 ---
 title: HTB Sherlocks - Campfire-1 Writeup
 published: 2026-10-04
-tags: [HTB Sherlocks, Writeups]
+tags: [HTB Sherlocks, Blue Team , Writeups]
 category: Writeups
 draft: false
 ---
