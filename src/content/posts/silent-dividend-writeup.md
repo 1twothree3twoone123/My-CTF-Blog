@@ -1,7 +1,7 @@
 ---
 title: HTB Holmes CTF 2026 - SilentDividend Writeup
 published: 2026-10-03
-tags: [Holmes CTF 2026, Writeups]
+tags: [Holmes CTF 2026, Blue Team, Writeups]
 category: Writeups
 draft: false
 ---
