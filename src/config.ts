@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Fuwari",
-	subtitle: "Demo Site",
+	title: "My CTF Blog",
+	subtitle: "Writeups & Notes",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -46,33 +46,26 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "GitHub",
-			url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
+			url: "https://github.com/1twothree3twoone123/My-CTF-Blog",
+			external: true,
 		},
 	],
 };
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Lorem Ipsum",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	name: "Threetwoone",
+	bio: "CTF player focused on pwn, reverse engineering, and forensics.",
 	links: [
-		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
-		},
-		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
-		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
+			url: "https://github.com/1twothree3twoone123",
+		},
+		{
+		    name: "HTB",
+		    icon: "lets-icons:3d-box",
+		    url: "https://profile.hackthebox.com/profile/019deff7-d487-70ef-8e8b-9a5d8a6d9be1?utm_medium=copy_url",
 		},
 	],
 };
