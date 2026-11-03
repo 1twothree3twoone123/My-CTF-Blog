@@ -6,7 +6,6 @@ category: Writeups
 draft: false
 ---
 # CrownJewel-1
-
 ## Examining the Evidence
 
 Here's the attachment from the challenge:
